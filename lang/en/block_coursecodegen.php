@@ -5,4 +5,8 @@ $string['coursecodegentitle'] = 'Coursecode admin';
 $string['viewcoursecodes'] = 'Browse coursecodes';
 $string['createcoursecodes'] = 'Create coursecodes';
 $string['vieweconomics'] = 'Show activity';
+
+$string['blockname'] = 'Course code gen';
+$string['pluginname'] = 'Course code gen';
+
 ?>
